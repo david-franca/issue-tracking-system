@@ -1,0 +1,3522 @@
+[
+  {
+    "id": 1,
+    "issue": "Fix San",
+    "version": "0.8.3",
+    "autor": "Não será removido",
+    "description": "hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris",
+    "priority": "Normal",
+    "createdAt": "16/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 2,
+    "issue": "Konklux",
+    "version": "0.8.5",
+    "autor": "Duplicado",
+    "description": "semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis",
+    "priority": "Baixa",
+    "createdAt": "02/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 3,
+    "issue": "Stronghold",
+    "version": "0.3.2",
+    "autor": "Resolvido",
+    "description": "sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id",
+    "priority": "Normal",
+    "createdAt": "05/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 4,
+    "issue": "Viva",
+    "version": "9.4",
+    "autor": "Duplicado",
+    "description": "suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum",
+    "priority": "Alta",
+    "createdAt": "17/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 5,
+    "issue": "Stronghold",
+    "version": "0.56",
+    "autor": "Não é erro",
+    "description": "aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus",
+    "priority": "Baixa",
+    "createdAt": "22/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 6,
+    "issue": "Solarbreeze",
+    "version": "3.6",
+    "autor": "Não será removido",
+    "description": "orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec",
+    "priority": "Normal",
+    "createdAt": "09/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 7,
+    "issue": "Lotstring",
+    "version": "0.1.7",
+    "autor": "Duplicado",
+    "description": "lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus",
+    "priority": "Alta",
+    "createdAt": "20/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 8,
+    "issue": "Biodex",
+    "version": "4.7.3",
+    "autor": "Não será removido",
+    "description": "odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis",
+    "priority": "Normal",
+    "createdAt": "15/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 9,
+    "issue": "Lotlux",
+    "version": "0.6.0",
+    "autor": "Reprovado",
+    "description": "id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 10,
+    "issue": "Daltfresh",
+    "version": "3.9.8",
+    "autor": "Resolvido",
+    "description": "quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a",
+    "priority": "Alta",
+    "createdAt": "06/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 11,
+    "issue": "Cardguard",
+    "version": "0.1.4",
+    "autor": "Aprovado",
+    "description": "porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in",
+    "priority": "Baixa",
+    "createdAt": "02/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 12,
+    "issue": "Cardify",
+    "version": "6.8.7",
+    "autor": "Duplicado",
+    "description": "ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia",
+    "priority": "Baixa",
+    "createdAt": "06/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 13,
+    "issue": "Cardify",
+    "version": "3.70",
+    "autor": "Não é erro",
+    "description": "vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo",
+    "priority": "Normal",
+    "createdAt": "12/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 14,
+    "issue": "Asoka",
+    "version": "0.75",
+    "autor": "Não será removido",
+    "description": "dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien",
+    "priority": "Alta",
+    "createdAt": "04/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 15,
+    "issue": "Konklab",
+    "version": "9.8.7",
+    "autor": "Não será removido",
+    "description": "non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt",
+    "priority": "Alta",
+    "createdAt": "20/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 16,
+    "issue": "Holdlamis",
+    "version": "9.3.1",
+    "autor": "Não é erro",
+    "description": "habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",
+    "priority": "Normal",
+    "createdAt": "10/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 17,
+    "issue": "Fintone",
+    "version": "7.8",
+    "autor": "Aprovado",
+    "description": "massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur",
+    "priority": "Normal",
+    "createdAt": "11/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 18,
+    "issue": "Biodex",
+    "version": "9.0",
+    "autor": "Não é erro",
+    "description": "in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet",
+    "priority": "Normal",
+    "createdAt": "11/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 19,
+    "issue": "Sonsing",
+    "version": "8.8",
+    "autor": "Não é erro",
+    "description": "augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec",
+    "priority": "Baixa",
+    "createdAt": "15/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 20,
+    "issue": "Gembucket",
+    "version": "0.30",
+    "autor": "Resolvido",
+    "description": "adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc",
+    "priority": "Alta",
+    "createdAt": "12/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 21,
+    "issue": "Home Ing",
+    "version": "8.73",
+    "autor": "Resolvido",
+    "description": "orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi",
+    "priority": "Alta",
+    "createdAt": "20/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 22,
+    "issue": "Matsoft",
+    "version": "0.8.7",
+    "autor": "Duplicado",
+    "description": "tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea",
+    "priority": "Normal",
+    "createdAt": "04/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 23,
+    "issue": "Asoka",
+    "version": "0.2.1",
+    "autor": "Não será removido",
+    "description": "eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit",
+    "priority": "Baixa",
+    "createdAt": "04/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 24,
+    "issue": "Span",
+    "version": "6.9.2",
+    "autor": "Não será removido",
+    "description": "eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula",
+    "priority": "Alta",
+    "createdAt": "18/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 25,
+    "issue": "Zathin",
+    "version": "5.2.3",
+    "autor": "Não é erro",
+    "description": "in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat",
+    "priority": "Alta",
+    "createdAt": "04/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 26,
+    "issue": "Konklux",
+    "version": "9.60",
+    "autor": "Não é erro",
+    "description": "volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie",
+    "priority": "Normal",
+    "createdAt": "07/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 27,
+    "issue": "Fixflex",
+    "version": "5.3",
+    "autor": "Reprovado",
+    "description": "pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in",
+    "priority": "Baixa",
+    "createdAt": "10/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 28,
+    "issue": "Job",
+    "version": "5.0.7",
+    "autor": "Duplicado",
+    "description": "magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "priority": "Alta",
+    "createdAt": "16/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 29,
+    "issue": "Ventosanzap",
+    "version": "7.5.6",
+    "autor": "Reprovado",
+    "description": "nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",
+    "priority": "Alta",
+    "createdAt": "26/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 30,
+    "issue": "Ventosanzap",
+    "version": "0.59",
+    "autor": "Resolvido",
+    "description": "in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis",
+    "priority": "Alta",
+    "createdAt": "19/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 31,
+    "issue": "Asoka",
+    "version": "0.48",
+    "autor": "Reprovado",
+    "description": "donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla",
+    "priority": "Alta",
+    "createdAt": "28/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 32,
+    "issue": "Stringtough",
+    "version": "3.2.7",
+    "autor": "Não será removido",
+    "description": "interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
+    "priority": "Normal",
+    "createdAt": "12/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 33,
+    "issue": "Temp",
+    "version": "0.50",
+    "autor": "Reprovado",
+    "description": "volutpat quam pede lobortis ligula sit amet eleifend pede libero",
+    "priority": "Alta",
+    "createdAt": "08/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 34,
+    "issue": "Mat Lam Tam",
+    "version": "0.91",
+    "autor": "Duplicado",
+    "description": "viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam",
+    "priority": "Normal",
+    "createdAt": "03/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 35,
+    "issue": "Hatity",
+    "version": "2.4",
+    "autor": "Aprovado",
+    "description": "eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a",
+    "priority": "Normal",
+    "createdAt": "17/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 36,
+    "issue": "Sub-Ex",
+    "version": "0.67",
+    "autor": "Duplicado",
+    "description": "volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit",
+    "priority": "Normal",
+    "createdAt": "26/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 37,
+    "issue": "Prodder",
+    "version": "0.1.2",
+    "autor": "Resolvido",
+    "description": "sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus",
+    "priority": "Baixa",
+    "createdAt": "05/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 38,
+    "issue": "Pannier",
+    "version": "7.6.1",
+    "autor": "Resolvido",
+    "description": "convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante",
+    "priority": "Normal",
+    "createdAt": "12/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 39,
+    "issue": "Subin",
+    "version": "0.44",
+    "autor": "Aprovado",
+    "description": "lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id",
+    "priority": "Normal",
+    "createdAt": "04/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 40,
+    "issue": "Andalax",
+    "version": "0.1.5",
+    "autor": "Reprovado",
+    "description": "phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi",
+    "priority": "Alta",
+    "createdAt": "28/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 41,
+    "issue": "Bitchip",
+    "version": "8.0",
+    "autor": "Não é erro",
+    "description": "faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio",
+    "priority": "Alta",
+    "createdAt": "23/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 42,
+    "issue": "Flexidy",
+    "version": "0.9.6",
+    "autor": "Aprovado",
+    "description": "libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti",
+    "priority": "Normal",
+    "createdAt": "02/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 43,
+    "issue": "Konklux",
+    "version": "3.89",
+    "autor": "Não é erro",
+    "description": "dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula",
+    "priority": "Normal",
+    "createdAt": "23/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 44,
+    "issue": "Cardguard",
+    "version": "0.5.4",
+    "autor": "Aprovado",
+    "description": "ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis",
+    "priority": "Baixa",
+    "createdAt": "27/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 45,
+    "issue": "Cookley",
+    "version": "0.58",
+    "autor": "Reprovado",
+    "description": "cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan",
+    "priority": "Alta",
+    "createdAt": "17/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 46,
+    "issue": "Holdlamis",
+    "version": "9.0",
+    "autor": "Aprovado",
+    "description": "diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis",
+    "priority": "Normal",
+    "createdAt": "19/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 47,
+    "issue": "Trippledex",
+    "version": "8.7.4",
+    "autor": "Aprovado",
+    "description": "dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst",
+    "priority": "Normal",
+    "createdAt": "24/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 48,
+    "issue": "Viva",
+    "version": "5.5.9",
+    "autor": "Resolvido",
+    "description": "orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a",
+    "priority": "Baixa",
+    "createdAt": "16/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 49,
+    "issue": "Mat Lam Tam",
+    "version": "0.71",
+    "autor": "Reprovado",
+    "description": "rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec",
+    "priority": "Alta",
+    "createdAt": "28/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 50,
+    "issue": "Y-Solowarm",
+    "version": "7.96",
+    "autor": "Não é erro",
+    "description": "pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut",
+    "priority": "Alta",
+    "createdAt": "06/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 51,
+    "issue": "Alpha",
+    "version": "0.99",
+    "autor": "Reprovado",
+    "description": "erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu",
+    "priority": "Alta",
+    "createdAt": "19/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 52,
+    "issue": "Wrapsafe",
+    "version": "1.6",
+    "autor": "Não será removido",
+    "description": "commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 53,
+    "issue": "Andalax",
+    "version": "0.1.3",
+    "autor": "Não é erro",
+    "description": "ac consequat metus sapien ut nunc vestibulum ante ipsum primis in",
+    "priority": "Normal",
+    "createdAt": "18/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 54,
+    "issue": "Konklux",
+    "version": "4.58",
+    "autor": "Não será removido",
+    "description": "donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit",
+    "priority": "Alta",
+    "createdAt": "20/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 55,
+    "issue": "Prodder",
+    "version": "7.8",
+    "autor": "Resolvido",
+    "description": "nulla nunc purus phasellus in felis donec semper sapien a",
+    "priority": "Baixa",
+    "createdAt": "19/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 56,
+    "issue": "Treeflex",
+    "version": "4.8",
+    "autor": "Não será removido",
+    "description": "tempus semper est quam pharetra magna ac consequat metus sapien ut nunc",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 57,
+    "issue": "Bitwolf",
+    "version": "0.5.2",
+    "autor": "Reprovado",
+    "description": "maecenas leo odio condimentum id luctus nec molestie sed justo",
+    "priority": "Alta",
+    "createdAt": "13/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 58,
+    "issue": "It",
+    "version": "0.8.2",
+    "autor": "Reprovado",
+    "description": "metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia",
+    "priority": "Normal",
+    "createdAt": "26/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 59,
+    "issue": "Cardify",
+    "version": "0.8.7",
+    "autor": "Duplicado",
+    "description": "ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate",
+    "priority": "Normal",
+    "createdAt": "11/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 60,
+    "issue": "Voyatouch",
+    "version": "0.28",
+    "autor": "Aprovado",
+    "description": "vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci",
+    "priority": "Normal",
+    "createdAt": "24/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 61,
+    "issue": "Greenlam",
+    "version": "5.1",
+    "autor": "Não é erro",
+    "description": "curabitur gravida nisi at nibh in hac habitasse platea dictumst",
+    "priority": "Alta",
+    "createdAt": "01/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 62,
+    "issue": "Sonsing",
+    "version": "7.6.0",
+    "autor": "Aprovado",
+    "description": "quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id",
+    "priority": "Alta",
+    "createdAt": "02/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 63,
+    "issue": "Wrapsafe",
+    "version": "3.26",
+    "autor": "Não é erro",
+    "description": "semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus",
+    "priority": "Alta",
+    "createdAt": "03/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 64,
+    "issue": "Alphazap",
+    "version": "0.7.2",
+    "autor": "Não é erro",
+    "description": "hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 65,
+    "issue": "Stringtough",
+    "version": "6.43",
+    "autor": "Resolvido",
+    "description": "nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam",
+    "priority": "Normal",
+    "createdAt": "02/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 66,
+    "issue": "Gembucket",
+    "version": "2.45",
+    "autor": "Aprovado",
+    "description": "sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in",
+    "priority": "Normal",
+    "createdAt": "13/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 67,
+    "issue": "Vagram",
+    "version": "0.8.8",
+    "autor": "Resolvido",
+    "description": "nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget",
+    "priority": "Normal",
+    "createdAt": "06/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 68,
+    "issue": "Veribet",
+    "version": "0.71",
+    "autor": "Não é erro",
+    "description": "scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis",
+    "priority": "Baixa",
+    "createdAt": "18/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 69,
+    "issue": "Latlux",
+    "version": "9.72",
+    "autor": "Não é erro",
+    "description": "nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae",
+    "priority": "Alta",
+    "createdAt": "13/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 70,
+    "issue": "Tin",
+    "version": "5.5",
+    "autor": "Reprovado",
+    "description": "adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in",
+    "priority": "Alta",
+    "createdAt": "14/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 71,
+    "issue": "Trippledex",
+    "version": "0.2.0",
+    "autor": "Não é erro",
+    "description": "velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta",
+    "priority": "Normal",
+    "createdAt": "26/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 72,
+    "issue": "Bitwolf",
+    "version": "9.6",
+    "autor": "Não é erro",
+    "description": "donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante",
+    "priority": "Alta",
+    "createdAt": "22/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 73,
+    "issue": "Overhold",
+    "version": "0.74",
+    "autor": "Resolvido",
+    "description": "suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus",
+    "priority": "Normal",
+    "createdAt": "07/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 74,
+    "issue": "Konklab",
+    "version": "3.5.1",
+    "autor": "Não é erro",
+    "description": "ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et",
+    "priority": "Alta",
+    "createdAt": "01/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 75,
+    "issue": "Span",
+    "version": "4.95",
+    "autor": "Não é erro",
+    "description": "vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque",
+    "priority": "Alta",
+    "createdAt": "04/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 76,
+    "issue": "Konklux",
+    "version": "0.20",
+    "autor": "Duplicado",
+    "description": "duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut",
+    "priority": "Normal",
+    "createdAt": "11/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 77,
+    "issue": "Voltsillam",
+    "version": "0.9.3",
+    "autor": "Reprovado",
+    "description": "congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum",
+    "priority": "Baixa",
+    "createdAt": "14/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 78,
+    "issue": "Bitchip",
+    "version": "4.6.1",
+    "autor": "Aprovado",
+    "description": "nulla sed vel enim sit amet nunc viverra dapibus nulla",
+    "priority": "Normal",
+    "createdAt": "12/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 79,
+    "issue": "Gembucket",
+    "version": "6.41",
+    "autor": "Duplicado",
+    "description": "ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio",
+    "priority": "Normal",
+    "createdAt": "20/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 80,
+    "issue": "Y-Solowarm",
+    "version": "8.8.7",
+    "autor": "Reprovado",
+    "description": "semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam",
+    "priority": "Normal",
+    "createdAt": "10/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 81,
+    "issue": "Alphazap",
+    "version": "6.43",
+    "autor": "Não será removido",
+    "description": "mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec",
+    "priority": "Baixa",
+    "createdAt": "01/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 82,
+    "issue": "Home Ing",
+    "version": "7.6.1",
+    "autor": "Aprovado",
+    "description": "quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at",
+    "priority": "Baixa",
+    "createdAt": "20/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 83,
+    "issue": "Gembucket",
+    "version": "0.63",
+    "autor": "Resolvido",
+    "description": "rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer",
+    "priority": "Alta",
+    "createdAt": "21/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 84,
+    "issue": "Tempsoft",
+    "version": "2.4.1",
+    "autor": "Aprovado",
+    "description": "metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in",
+    "priority": "Normal",
+    "createdAt": "13/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 85,
+    "issue": "Bamity",
+    "version": "0.8.8",
+    "autor": "Aprovado",
+    "description": "lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 86,
+    "issue": "Lotstring",
+    "version": "1.1",
+    "autor": "Duplicado",
+    "description": "consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla",
+    "priority": "Alta",
+    "createdAt": "22/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 87,
+    "issue": "Zontrax",
+    "version": "9.88",
+    "autor": "Aprovado",
+    "description": "natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis",
+    "priority": "Normal",
+    "createdAt": "05/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 88,
+    "issue": "Y-Solowarm",
+    "version": "6.8.2",
+    "autor": "Resolvido",
+    "description": "amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse",
+    "priority": "Normal",
+    "createdAt": "16/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 89,
+    "issue": "Ronstring",
+    "version": "6.07",
+    "autor": "Aprovado",
+    "description": "ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque",
+    "priority": "Alta",
+    "createdAt": "23/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 90,
+    "issue": "Latlux",
+    "version": "5.3",
+    "autor": "Duplicado",
+    "description": "etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id",
+    "priority": "Baixa",
+    "createdAt": "05/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 91,
+    "issue": "Tin",
+    "version": "0.8.8",
+    "autor": "Não é erro",
+    "description": "quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin",
+    "priority": "Normal",
+    "createdAt": "18/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 92,
+    "issue": "Matsoft",
+    "version": "2.16",
+    "autor": "Não é erro",
+    "description": "quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum",
+    "priority": "Normal",
+    "createdAt": "26/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 93,
+    "issue": "Andalax",
+    "version": "6.6.8",
+    "autor": "Resolvido",
+    "description": "proin eu mi nulla ac enim in tempor turpis nec",
+    "priority": "Baixa",
+    "createdAt": "05/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 94,
+    "issue": "Prodder",
+    "version": "0.6.3",
+    "autor": "Aprovado",
+    "description": "ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non",
+    "priority": "Baixa",
+    "createdAt": "09/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 95,
+    "issue": "Konklux",
+    "version": "0.7.6",
+    "autor": "Resolvido",
+    "description": "mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer",
+    "priority": "Normal",
+    "createdAt": "19/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 96,
+    "issue": "Tresom",
+    "version": "3.4",
+    "autor": "Reprovado",
+    "description": "lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit",
+    "priority": "Baixa",
+    "createdAt": "18/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 97,
+    "issue": "Zontrax",
+    "version": "0.66",
+    "autor": "Não é erro",
+    "description": "pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien",
+    "priority": "Baixa",
+    "createdAt": "22/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 98,
+    "issue": "Temp",
+    "version": "0.74",
+    "autor": "Reprovado",
+    "description": "interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien",
+    "priority": "Normal",
+    "createdAt": "21/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 99,
+    "issue": "Tampflex",
+    "version": "0.6.4",
+    "autor": "Aprovado",
+    "description": "imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed",
+    "priority": "Normal",
+    "createdAt": "09/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 100,
+    "issue": "Greenlam",
+    "version": "0.48",
+    "autor": "Resolvido",
+    "description": "enim blandit mi in porttitor pede justo eu massa donec dapibus",
+    "priority": "Baixa",
+    "createdAt": "26/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 101,
+    "issue": "Bitwolf",
+    "version": "0.1.7",
+    "autor": "Resolvido",
+    "description": "id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque",
+    "priority": "Normal",
+    "createdAt": "20/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 102,
+    "issue": "Solarbreeze",
+    "version": "0.9.9",
+    "autor": "Não será removido",
+    "description": "eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 103,
+    "issue": "Voltsillam",
+    "version": "3.6",
+    "autor": "Aprovado",
+    "description": "ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras",
+    "priority": "Alta",
+    "createdAt": "18/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 104,
+    "issue": "Latlux",
+    "version": "8.4",
+    "autor": "Aprovado",
+    "description": "ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac",
+    "priority": "Baixa",
+    "createdAt": "19/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 105,
+    "issue": "Flexidy",
+    "version": "3.0.6",
+    "autor": "Não será removido",
+    "description": "ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec",
+    "priority": "Normal",
+    "createdAt": "17/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 106,
+    "issue": "Latlux",
+    "version": "5.2.0",
+    "autor": "Não será removido",
+    "description": "malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor",
+    "priority": "Alta",
+    "createdAt": "10/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 107,
+    "issue": "Cardguard",
+    "version": "0.4.8",
+    "autor": "Não será removido",
+    "description": "dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque",
+    "priority": "Alta",
+    "createdAt": "20/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 108,
+    "issue": "Tempsoft",
+    "version": "4.4.3",
+    "autor": "Aprovado",
+    "description": "ligula suspendisse ornare consequat lectus in est risus auctor sed",
+    "priority": "Alta",
+    "createdAt": "18/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 109,
+    "issue": "Ronstring",
+    "version": "2.57",
+    "autor": "Não é erro",
+    "description": "amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim",
+    "priority": "Normal",
+    "createdAt": "04/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 110,
+    "issue": "Zontrax",
+    "version": "8.8",
+    "autor": "Aprovado",
+    "description": "est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in",
+    "priority": "Baixa",
+    "createdAt": "18/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 111,
+    "issue": "Ventosanzap",
+    "version": "0.8.6",
+    "autor": "Aprovado",
+    "description": "nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin",
+    "priority": "Alta",
+    "createdAt": "24/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 112,
+    "issue": "Gembucket",
+    "version": "5.4.9",
+    "autor": "Duplicado",
+    "description": "proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante",
+    "priority": "Baixa",
+    "createdAt": "12/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 113,
+    "issue": "Kanlam",
+    "version": "6.5.1",
+    "autor": "Duplicado",
+    "description": "quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst",
+    "priority": "Baixa",
+    "createdAt": "07/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 114,
+    "issue": "Sonsing",
+    "version": "0.93",
+    "autor": "Aprovado",
+    "description": "maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum",
+    "priority": "Alta",
+    "createdAt": "02/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 115,
+    "issue": "Mat Lam Tam",
+    "version": "9.3.6",
+    "autor": "Resolvido",
+    "description": "nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed",
+    "priority": "Normal",
+    "createdAt": "14/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 116,
+    "issue": "Veribet",
+    "version": "0.16",
+    "autor": "Resolvido",
+    "description": "neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros",
+    "priority": "Normal",
+    "createdAt": "03/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 117,
+    "issue": "Domainer",
+    "version": "6.23",
+    "autor": "Não será removido",
+    "description": "nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros",
+    "priority": "Alta",
+    "createdAt": "15/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 118,
+    "issue": "Alpha",
+    "version": "2.02",
+    "autor": "Resolvido",
+    "description": "blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula",
+    "priority": "Alta",
+    "createdAt": "22/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 119,
+    "issue": "Alpha",
+    "version": "1.3",
+    "autor": "Reprovado",
+    "description": "pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna",
+    "priority": "Alta",
+    "createdAt": "06/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 120,
+    "issue": "Job",
+    "version": "0.60",
+    "autor": "Reprovado",
+    "description": "dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et",
+    "priority": "Baixa",
+    "createdAt": "25/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 121,
+    "issue": "Stronghold",
+    "version": "9.7.6",
+    "autor": "Aprovado",
+    "description": "aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies",
+    "priority": "Normal",
+    "createdAt": "03/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 122,
+    "issue": "Sonair",
+    "version": "9.5.2",
+    "autor": "Não é erro",
+    "description": "montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem",
+    "priority": "Normal",
+    "createdAt": "27/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 123,
+    "issue": "Trippledex",
+    "version": "0.47",
+    "autor": "Resolvido",
+    "description": "sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla",
+    "priority": "Alta",
+    "createdAt": "07/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 124,
+    "issue": "Lotlux",
+    "version": "3.64",
+    "autor": "Resolvido",
+    "description": "rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio",
+    "priority": "Alta",
+    "createdAt": "23/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 125,
+    "issue": "Stim",
+    "version": "6.8",
+    "autor": "Resolvido",
+    "description": "eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum",
+    "priority": "Baixa",
+    "createdAt": "08/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 126,
+    "issue": "Flexidy",
+    "version": "0.52",
+    "autor": "Duplicado",
+    "description": "risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum",
+    "priority": "Normal",
+    "createdAt": "10/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 127,
+    "issue": "Stim",
+    "version": "3.3.9",
+    "autor": "Resolvido",
+    "description": "morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci",
+    "priority": "Baixa",
+    "createdAt": "01/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 128,
+    "issue": "Cardify",
+    "version": "0.91",
+    "autor": "Resolvido",
+    "description": "nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget",
+    "priority": "Alta",
+    "createdAt": "22/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 129,
+    "issue": "Redhold",
+    "version": "5.27",
+    "autor": "Não é erro",
+    "description": "orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut",
+    "priority": "Alta",
+    "createdAt": "24/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 130,
+    "issue": "Bitwolf",
+    "version": "0.8.0",
+    "autor": "Reprovado",
+    "description": "elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum",
+    "priority": "Normal",
+    "createdAt": "02/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 131,
+    "issue": "Ventosanzap",
+    "version": "4.4.3",
+    "autor": "Não será removido",
+    "description": "in est risus auctor sed tristique in tempus sit amet sem fusce",
+    "priority": "Baixa",
+    "createdAt": "02/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 132,
+    "issue": "Biodex",
+    "version": "4.4",
+    "autor": "Resolvido",
+    "description": "aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi",
+    "priority": "Baixa",
+    "createdAt": "11/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 133,
+    "issue": "Overhold",
+    "version": "6.5",
+    "autor": "Não é erro",
+    "description": "praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio",
+    "priority": "Normal",
+    "createdAt": "25/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 134,
+    "issue": "Flexidy",
+    "version": "0.66",
+    "autor": "Aprovado",
+    "description": "rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia",
+    "priority": "Alta",
+    "createdAt": "24/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 135,
+    "issue": "Treeflex",
+    "version": "7.4.0",
+    "autor": "Não é erro",
+    "description": "neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 136,
+    "issue": "Alpha",
+    "version": "3.96",
+    "autor": "Não será removido",
+    "description": "id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam",
+    "priority": "Normal",
+    "createdAt": "03/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 137,
+    "issue": "Holdlamis",
+    "version": "6.9.9",
+    "autor": "Não é erro",
+    "description": "eu mi nulla ac enim in tempor turpis nec euismod scelerisque",
+    "priority": "Normal",
+    "createdAt": "02/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 138,
+    "issue": "Job",
+    "version": "8.7",
+    "autor": "Aprovado",
+    "description": "sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui",
+    "priority": "Alta",
+    "createdAt": "22/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 139,
+    "issue": "Stronghold",
+    "version": "2.6.4",
+    "autor": "Não será removido",
+    "description": "sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet",
+    "priority": "Normal",
+    "createdAt": "28/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 140,
+    "issue": "Ventosanzap",
+    "version": "8.9.1",
+    "autor": "Não será removido",
+    "description": "nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam",
+    "priority": "Alta",
+    "createdAt": "04/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 141,
+    "issue": "Ventosanzap",
+    "version": "8.10",
+    "autor": "Não é erro",
+    "description": "duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend",
+    "priority": "Baixa",
+    "createdAt": "17/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 142,
+    "issue": "Andalax",
+    "version": "0.61",
+    "autor": "Não será removido",
+    "description": "at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede",
+    "priority": "Alta",
+    "createdAt": "28/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 143,
+    "issue": "Domainer",
+    "version": "7.70",
+    "autor": "Não será removido",
+    "description": "elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing",
+    "priority": "Alta",
+    "createdAt": "23/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 144,
+    "issue": "Gembucket",
+    "version": "7.8",
+    "autor": "Resolvido",
+    "description": "rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia",
+    "priority": "Normal",
+    "createdAt": "01/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 145,
+    "issue": "Matsoft",
+    "version": "0.99",
+    "autor": "Reprovado",
+    "description": "ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam",
+    "priority": "Baixa",
+    "createdAt": "01/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 146,
+    "issue": "Namfix",
+    "version": "2.70",
+    "autor": "Duplicado",
+    "description": "ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus",
+    "priority": "Normal",
+    "createdAt": "06/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 147,
+    "issue": "Zaam-Dox",
+    "version": "2.3",
+    "autor": "Não é erro",
+    "description": "interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique",
+    "priority": "Baixa",
+    "createdAt": "12/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 148,
+    "issue": "Aerified",
+    "version": "3.17",
+    "autor": "Aprovado",
+    "description": "suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet",
+    "priority": "Alta",
+    "createdAt": "06/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 149,
+    "issue": "Ventosanzap",
+    "version": "0.12",
+    "autor": "Não será removido",
+    "description": "leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in",
+    "priority": "Normal",
+    "createdAt": "06/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 150,
+    "issue": "Subin",
+    "version": "4.45",
+    "autor": "Resolvido",
+    "description": "et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 151,
+    "issue": "Subin",
+    "version": "0.2.8",
+    "autor": "Duplicado",
+    "description": "at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc",
+    "priority": "Normal",
+    "createdAt": "01/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 152,
+    "issue": "Toughjoyfax",
+    "version": "0.4.2",
+    "autor": "Aprovado",
+    "description": "vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl",
+    "priority": "Normal",
+    "createdAt": "05/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 153,
+    "issue": "Voltsillam",
+    "version": "0.64",
+    "autor": "Aprovado",
+    "description": "gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi",
+    "priority": "Normal",
+    "createdAt": "03/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 154,
+    "issue": "Mat Lam Tam",
+    "version": "0.2.0",
+    "autor": "Resolvido",
+    "description": "nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum",
+    "priority": "Alta",
+    "createdAt": "04/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 155,
+    "issue": "Toughjoyfax",
+    "version": "9.2.7",
+    "autor": "Não é erro",
+    "description": "luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit",
+    "priority": "Alta",
+    "createdAt": "18/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 156,
+    "issue": "Kanlam",
+    "version": "0.9.9",
+    "autor": "Não é erro",
+    "description": "ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam",
+    "priority": "Normal",
+    "createdAt": "27/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 157,
+    "issue": "Flowdesk",
+    "version": "0.64",
+    "autor": "Reprovado",
+    "description": "rutrum ac lobortis vel dapibus at diam nam tristique tortor",
+    "priority": "Alta",
+    "createdAt": "14/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 158,
+    "issue": "Alpha",
+    "version": "0.2.0",
+    "autor": "Resolvido",
+    "description": "id consequat in consequat ut nulla sed accumsan felis ut at dolor quis",
+    "priority": "Normal",
+    "createdAt": "19/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 159,
+    "issue": "Fintone",
+    "version": "6.8.7",
+    "autor": "Não é erro",
+    "description": "sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam",
+    "priority": "Baixa",
+    "createdAt": "26/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 160,
+    "issue": "Toughjoyfax",
+    "version": "0.97",
+    "autor": "Não será removido",
+    "description": "eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque",
+    "priority": "Alta",
+    "createdAt": "14/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 161,
+    "issue": "Konklab",
+    "version": "0.93",
+    "autor": "Não será removido",
+    "description": "dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras",
+    "priority": "Alta",
+    "createdAt": "16/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 162,
+    "issue": "Fixflex",
+    "version": "0.69",
+    "autor": "Não é erro",
+    "description": "ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor",
+    "priority": "Alta",
+    "createdAt": "01/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 163,
+    "issue": "Stronghold",
+    "version": "4.85",
+    "autor": "Não será removido",
+    "description": "quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus",
+    "priority": "Normal",
+    "createdAt": "15/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 164,
+    "issue": "Zaam-Dox",
+    "version": "0.88",
+    "autor": "Não será removido",
+    "description": "potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi",
+    "priority": "Alta",
+    "createdAt": "08/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 165,
+    "issue": "Fintone",
+    "version": "3.7",
+    "autor": "Não será removido",
+    "description": "nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi",
+    "priority": "Alta",
+    "createdAt": "21/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 166,
+    "issue": "Domainer",
+    "version": "0.5.5",
+    "autor": "Aprovado",
+    "description": "diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis",
+    "priority": "Normal",
+    "createdAt": "15/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 167,
+    "issue": "Zathin",
+    "version": "9.4",
+    "autor": "Reprovado",
+    "description": "consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer",
+    "priority": "Baixa",
+    "createdAt": "22/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 168,
+    "issue": "Flowdesk",
+    "version": "8.6",
+    "autor": "Aprovado",
+    "description": "at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 169,
+    "issue": "Y-Solowarm",
+    "version": "3.4",
+    "autor": "Aprovado",
+    "description": "quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci",
+    "priority": "Alta",
+    "createdAt": "02/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 170,
+    "issue": "Viva",
+    "version": "8.9",
+    "autor": "Não é erro",
+    "description": "integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in",
+    "priority": "Baixa",
+    "createdAt": "05/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 171,
+    "issue": "Matsoft",
+    "version": "3.9",
+    "autor": "Resolvido",
+    "description": "eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget",
+    "priority": "Normal",
+    "createdAt": "28/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 172,
+    "issue": "Cardguard",
+    "version": "6.64",
+    "autor": "Não é erro",
+    "description": "quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 173,
+    "issue": "Subin",
+    "version": "0.5.1",
+    "autor": "Reprovado",
+    "description": "lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc",
+    "priority": "Alta",
+    "createdAt": "13/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 174,
+    "issue": "Zamit",
+    "version": "2.2.8",
+    "autor": "Aprovado",
+    "description": "augue vestibulum ante ipsum primis in faucibus orci luctus et",
+    "priority": "Normal",
+    "createdAt": "03/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 175,
+    "issue": "Sonsing",
+    "version": "8.28",
+    "autor": "Resolvido",
+    "description": "aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat",
+    "priority": "Baixa",
+    "createdAt": "08/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 176,
+    "issue": "Daltfresh",
+    "version": "0.6.1",
+    "autor": "Não será removido",
+    "description": "rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat",
+    "priority": "Normal",
+    "createdAt": "09/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 177,
+    "issue": "Cookley",
+    "version": "0.22",
+    "autor": "Aprovado",
+    "description": "pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 178,
+    "issue": "Stronghold",
+    "version": "2.3.9",
+    "autor": "Não é erro",
+    "description": "congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut",
+    "priority": "Alta",
+    "createdAt": "16/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 179,
+    "issue": "Transcof",
+    "version": "5.5.0",
+    "autor": "Não será removido",
+    "description": "platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur",
+    "priority": "Alta",
+    "createdAt": "23/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 180,
+    "issue": "Fintone",
+    "version": "9.1.9",
+    "autor": "Não será removido",
+    "description": "imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat",
+    "priority": "Alta",
+    "createdAt": "07/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 181,
+    "issue": "Greenlam",
+    "version": "0.44",
+    "autor": "Duplicado",
+    "description": "a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus",
+    "priority": "Baixa",
+    "createdAt": "06/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 182,
+    "issue": "Konklux",
+    "version": "2.8",
+    "autor": "Não será removido",
+    "description": "phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at",
+    "priority": "Baixa",
+    "createdAt": "14/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 183,
+    "issue": "Bitwolf",
+    "version": "0.49",
+    "autor": "Não será removido",
+    "description": "amet justo morbi ut odio cras mi pede malesuada in imperdiet",
+    "priority": "Alta",
+    "createdAt": "26/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 184,
+    "issue": "Lotstring",
+    "version": "9.91",
+    "autor": "Não é erro",
+    "description": "donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut",
+    "priority": "Baixa",
+    "createdAt": "21/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 185,
+    "issue": "Flexidy",
+    "version": "6.36",
+    "autor": "Não será removido",
+    "description": "quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in",
+    "priority": "Baixa",
+    "createdAt": "09/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 186,
+    "issue": "Andalax",
+    "version": "5.4.6",
+    "autor": "Aprovado",
+    "description": "mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis",
+    "priority": "Baixa",
+    "createdAt": "23/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 187,
+    "issue": "Opela",
+    "version": "0.4.3",
+    "autor": "Reprovado",
+    "description": "vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac",
+    "priority": "Baixa",
+    "createdAt": "27/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 188,
+    "issue": "Opela",
+    "version": "4.9",
+    "autor": "Duplicado",
+    "description": "dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit",
+    "priority": "Normal",
+    "createdAt": "14/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 189,
+    "issue": "Otcom",
+    "version": "0.51",
+    "autor": "Não será removido",
+    "description": "vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget",
+    "priority": "Normal",
+    "createdAt": "26/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 190,
+    "issue": "Transcof",
+    "version": "3.18",
+    "autor": "Duplicado",
+    "description": "scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis",
+    "priority": "Alta",
+    "createdAt": "01/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 191,
+    "issue": "Y-Solowarm",
+    "version": "0.84",
+    "autor": "Duplicado",
+    "description": "mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 192,
+    "issue": "Treeflex",
+    "version": "0.4.0",
+    "autor": "Reprovado",
+    "description": "rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent",
+    "priority": "Normal",
+    "createdAt": "25/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 193,
+    "issue": "Daltfresh",
+    "version": "0.60",
+    "autor": "Não será removido",
+    "description": "sapien a libero nam dui proin leo odio porttitor id consequat in",
+    "priority": "Alta",
+    "createdAt": "14/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 194,
+    "issue": "Fix San",
+    "version": "8.90",
+    "autor": "Reprovado",
+    "description": "mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus",
+    "priority": "Baixa",
+    "createdAt": "16/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 195,
+    "issue": "Opela",
+    "version": "0.84",
+    "autor": "Aprovado",
+    "description": "tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl",
+    "priority": "Normal",
+    "createdAt": "14/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 196,
+    "issue": "Bitchip",
+    "version": "4.2",
+    "autor": "Não será removido",
+    "description": "sapien sapien non mi integer ac neque duis bibendum morbi non quam",
+    "priority": "Normal",
+    "createdAt": "25/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 197,
+    "issue": "Mat Lam Tam",
+    "version": "0.60",
+    "autor": "Resolvido",
+    "description": "ante vivamus tortor duis mattis egestas metus aenean fermentum donec",
+    "priority": "Baixa",
+    "createdAt": "12/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 198,
+    "issue": "Cardguard",
+    "version": "0.18",
+    "autor": "Não será removido",
+    "description": "ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "priority": "Alta",
+    "createdAt": "17/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 199,
+    "issue": "Flowdesk",
+    "version": "6.67",
+    "autor": "Aprovado",
+    "description": "cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis",
+    "priority": "Normal",
+    "createdAt": "10/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 200,
+    "issue": "Andalax",
+    "version": "4.79",
+    "autor": "Resolvido",
+    "description": "leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac",
+    "priority": "Baixa",
+    "createdAt": "09/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 201,
+    "issue": "Biodex",
+    "version": "4.8.0",
+    "autor": "Resolvido",
+    "description": "rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 202,
+    "issue": "Fintone",
+    "version": "0.5.1",
+    "autor": "Aprovado",
+    "description": "ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 203,
+    "issue": "Andalax",
+    "version": "9.2.7",
+    "autor": "Resolvido",
+    "description": "integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis",
+    "priority": "Baixa",
+    "createdAt": "13/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 204,
+    "issue": "Tin",
+    "version": "5.4.9",
+    "autor": "Resolvido",
+    "description": "platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id",
+    "priority": "Normal",
+    "createdAt": "09/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 205,
+    "issue": "Opela",
+    "version": "3.6",
+    "autor": "Não é erro",
+    "description": "convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit",
+    "priority": "Alta",
+    "createdAt": "20/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 206,
+    "issue": "Cardguard",
+    "version": "8.66",
+    "autor": "Duplicado",
+    "description": "accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices",
+    "priority": "Normal",
+    "createdAt": "07/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 207,
+    "issue": "Namfix",
+    "version": "6.6",
+    "autor": "Reprovado",
+    "description": "ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida",
+    "priority": "Baixa",
+    "createdAt": "02/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 208,
+    "issue": "Solarbreeze",
+    "version": "2.0",
+    "autor": "Duplicado",
+    "description": "nunc purus phasellus in felis donec semper sapien a libero nam dui proin",
+    "priority": "Alta",
+    "createdAt": "19/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 209,
+    "issue": "Daltfresh",
+    "version": "7.8.0",
+    "autor": "Aprovado",
+    "description": "ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique",
+    "priority": "Baixa",
+    "createdAt": "24/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 210,
+    "issue": "It",
+    "version": "0.9.6",
+    "autor": "Não será removido",
+    "description": "tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+    "priority": "Baixa",
+    "createdAt": "01/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 211,
+    "issue": "Overhold",
+    "version": "8.8.4",
+    "autor": "Não é erro",
+    "description": "mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero",
+    "priority": "Alta",
+    "createdAt": "06/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 212,
+    "issue": "Veribet",
+    "version": "0.15",
+    "autor": "Resolvido",
+    "description": "rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia",
+    "priority": "Baixa",
+    "createdAt": "25/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 213,
+    "issue": "Wrapsafe",
+    "version": "0.5.1",
+    "autor": "Reprovado",
+    "description": "semper interdum mauris ullamcorper purus sit amet nulla quisque arcu",
+    "priority": "Baixa",
+    "createdAt": "02/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 214,
+    "issue": "Mat Lam Tam",
+    "version": "2.04",
+    "autor": "Resolvido",
+    "description": "tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis",
+    "priority": "Alta",
+    "createdAt": "23/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 215,
+    "issue": "Matsoft",
+    "version": "0.8.4",
+    "autor": "Resolvido",
+    "description": "luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat",
+    "priority": "Normal",
+    "createdAt": "10/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 216,
+    "issue": "Alphazap",
+    "version": "1.17",
+    "autor": "Não é erro",
+    "description": "felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel",
+    "priority": "Baixa",
+    "createdAt": "25/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 217,
+    "issue": "Viva",
+    "version": "8.6.7",
+    "autor": "Não será removido",
+    "description": "interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet",
+    "priority": "Baixa",
+    "createdAt": "04/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 218,
+    "issue": "Stringtough",
+    "version": "5.16",
+    "autor": "Não será removido",
+    "description": "ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
+    "priority": "Normal",
+    "createdAt": "01/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 219,
+    "issue": "Alphazap",
+    "version": "0.1.5",
+    "autor": "Resolvido",
+    "description": "at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget",
+    "priority": "Baixa",
+    "createdAt": "17/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 220,
+    "issue": "Konklux",
+    "version": "2.5",
+    "autor": "Reprovado",
+    "description": "ac tellus semper interdum mauris ullamcorper purus sit amet nulla",
+    "priority": "Alta",
+    "createdAt": "10/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 221,
+    "issue": "Greenlam",
+    "version": "6.73",
+    "autor": "Resolvido",
+    "description": "bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu",
+    "priority": "Normal",
+    "createdAt": "25/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 222,
+    "issue": "Sonsing",
+    "version": "0.4.1",
+    "autor": "Aprovado",
+    "description": "mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae",
+    "priority": "Normal",
+    "createdAt": "17/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 223,
+    "issue": "Zoolab",
+    "version": "6.9.4",
+    "autor": "Reprovado",
+    "description": "massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 224,
+    "issue": "Stronghold",
+    "version": "1.85",
+    "autor": "Resolvido",
+    "description": "lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien",
+    "priority": "Normal",
+    "createdAt": "12/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 225,
+    "issue": "Trippledex",
+    "version": "4.15",
+    "autor": "Duplicado",
+    "description": "amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+    "priority": "Alta",
+    "createdAt": "21/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 226,
+    "issue": "Transcof",
+    "version": "6.62",
+    "autor": "Reprovado",
+    "description": "non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus",
+    "priority": "Baixa",
+    "createdAt": "08/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 227,
+    "issue": "Sonsing",
+    "version": "1.85",
+    "autor": "Reprovado",
+    "description": "integer non velit donec diam neque vestibulum eget vulputate ut",
+    "priority": "Alta",
+    "createdAt": "06/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 228,
+    "issue": "Lotlux",
+    "version": "0.2.8",
+    "autor": "Não é erro",
+    "description": "pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis",
+    "priority": "Normal",
+    "createdAt": "16/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 229,
+    "issue": "Konklab",
+    "version": "8.14",
+    "autor": "Resolvido",
+    "description": "aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede",
+    "priority": "Alta",
+    "createdAt": "01/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 230,
+    "issue": "Job",
+    "version": "0.9.9",
+    "autor": "Não é erro",
+    "description": "faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam",
+    "priority": "Baixa",
+    "createdAt": "24/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 231,
+    "issue": "Matsoft",
+    "version": "6.9.6",
+    "autor": "Não será removido",
+    "description": "quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede",
+    "priority": "Normal",
+    "createdAt": "07/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 232,
+    "issue": "Andalax",
+    "version": "0.29",
+    "autor": "Duplicado",
+    "description": "quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea",
+    "priority": "Normal",
+    "createdAt": "22/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 233,
+    "issue": "Quo Lux",
+    "version": "2.7.6",
+    "autor": "Resolvido",
+    "description": "et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis",
+    "priority": "Alta",
+    "createdAt": "25/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 234,
+    "issue": "Zaam-Dox",
+    "version": "5.93",
+    "autor": "Resolvido",
+    "description": "nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in",
+    "priority": "Baixa",
+    "createdAt": "12/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 235,
+    "issue": "Fintone",
+    "version": "3.1.9",
+    "autor": "Duplicado",
+    "description": "quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi",
+    "priority": "Alta",
+    "createdAt": "21/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 236,
+    "issue": "Span",
+    "version": "3.78",
+    "autor": "Não é erro",
+    "description": "morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet",
+    "priority": "Normal",
+    "createdAt": "18/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 237,
+    "issue": "Konklux",
+    "version": "1.9.7",
+    "autor": "Duplicado",
+    "description": "hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat",
+    "priority": "Alta",
+    "createdAt": "23/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 238,
+    "issue": "Zoolab",
+    "version": "9.87",
+    "autor": "Resolvido",
+    "description": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis",
+    "priority": "Alta",
+    "createdAt": "16/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 239,
+    "issue": "Tampflex",
+    "version": "5.77",
+    "autor": "Resolvido",
+    "description": "natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum",
+    "priority": "Normal",
+    "createdAt": "09/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 240,
+    "issue": "Zoolab",
+    "version": "3.51",
+    "autor": "Aprovado",
+    "description": "at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget",
+    "priority": "Normal",
+    "createdAt": "07/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 241,
+    "issue": "Cardify",
+    "version": "8.8.1",
+    "autor": "Aprovado",
+    "description": "in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non",
+    "priority": "Baixa",
+    "createdAt": "06/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 242,
+    "issue": "Fix San",
+    "version": "6.8",
+    "autor": "Duplicado",
+    "description": "pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis",
+    "priority": "Normal",
+    "createdAt": "15/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 243,
+    "issue": "Tresom",
+    "version": "0.25",
+    "autor": "Não será removido",
+    "description": "amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at",
+    "priority": "Normal",
+    "createdAt": "15/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 244,
+    "issue": "Greenlam",
+    "version": "5.17",
+    "autor": "Não é erro",
+    "description": "odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus",
+    "priority": "Baixa",
+    "createdAt": "06/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 245,
+    "issue": "Andalax",
+    "version": "0.36",
+    "autor": "Aprovado",
+    "description": "porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus",
+    "priority": "Baixa",
+    "createdAt": "07/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 246,
+    "issue": "Voltsillam",
+    "version": "0.3.8",
+    "autor": "Duplicado",
+    "description": "eu magna vulputate luctus cum sociis natoque penatibus et magnis dis",
+    "priority": "Normal",
+    "createdAt": "23/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 247,
+    "issue": "Domainer",
+    "version": "6.0.9",
+    "autor": "Resolvido",
+    "description": "duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor",
+    "priority": "Baixa",
+    "createdAt": "04/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 248,
+    "issue": "Greenlam",
+    "version": "5.18",
+    "autor": "Aprovado",
+    "description": "eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui",
+    "priority": "Normal",
+    "createdAt": "27/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 249,
+    "issue": "Fixflex",
+    "version": "9.67",
+    "autor": "Não será removido",
+    "description": "neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris",
+    "priority": "Alta",
+    "createdAt": "02/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 250,
+    "issue": "Zoolab",
+    "version": "4.8.2",
+    "autor": "Aprovado",
+    "description": "elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis",
+    "priority": "Normal",
+    "createdAt": "07/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 251,
+    "issue": "Tin",
+    "version": "3.7.2",
+    "autor": "Resolvido",
+    "description": "penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue",
+    "priority": "Alta",
+    "createdAt": "23/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 252,
+    "issue": "Cardify",
+    "version": "0.2.2",
+    "autor": "Aprovado",
+    "description": "sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor",
+    "priority": "Alta",
+    "createdAt": "07/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 253,
+    "issue": "Kanlam",
+    "version": "0.43",
+    "autor": "Não será removido",
+    "description": "cursus vestibulum proin eu mi nulla ac enim in tempor",
+    "priority": "Alta",
+    "createdAt": "10/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 254,
+    "issue": "Bigtax",
+    "version": "1.18",
+    "autor": "Não é erro",
+    "description": "nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at",
+    "priority": "Alta",
+    "createdAt": "15/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 255,
+    "issue": "Zontrax",
+    "version": "0.7.2",
+    "autor": "Aprovado",
+    "description": "lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti",
+    "priority": "Baixa",
+    "createdAt": "01/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 256,
+    "issue": "Sonair",
+    "version": "0.9.1",
+    "autor": "Resolvido",
+    "description": "blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel",
+    "priority": "Normal",
+    "createdAt": "18/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 257,
+    "issue": "Span",
+    "version": "0.3.4",
+    "autor": "Não é erro",
+    "description": "massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien",
+    "priority": "Alta",
+    "createdAt": "22/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 258,
+    "issue": "Subin",
+    "version": "0.5.9",
+    "autor": "Aprovado",
+    "description": "diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 259,
+    "issue": "Sonair",
+    "version": "2.87",
+    "autor": "Não é erro",
+    "description": "sed augue aliquam erat volutpat in congue etiam justo etiam",
+    "priority": "Alta",
+    "createdAt": "10/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 260,
+    "issue": "Voyatouch",
+    "version": "7.87",
+    "autor": "Não é erro",
+    "description": "accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis",
+    "priority": "Baixa",
+    "createdAt": "11/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 261,
+    "issue": "Treeflex",
+    "version": "1.4",
+    "autor": "Aprovado",
+    "description": "platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque",
+    "priority": "Baixa",
+    "createdAt": "10/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 262,
+    "issue": "Alpha",
+    "version": "2.4",
+    "autor": "Reprovado",
+    "description": "phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate",
+    "priority": "Baixa",
+    "createdAt": "11/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 263,
+    "issue": "Domainer",
+    "version": "0.7.8",
+    "autor": "Resolvido",
+    "description": "nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",
+    "priority": "Alta",
+    "createdAt": "06/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 264,
+    "issue": "Bamity",
+    "version": "0.8.4",
+    "autor": "Aprovado",
+    "description": "in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque",
+    "priority": "Alta",
+    "createdAt": "01/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 265,
+    "issue": "Tempsoft",
+    "version": "0.35",
+    "autor": "Resolvido",
+    "description": "mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh",
+    "priority": "Baixa",
+    "createdAt": "04/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 266,
+    "issue": "It",
+    "version": "8.5",
+    "autor": "Reprovado",
+    "description": "luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat",
+    "priority": "Alta",
+    "createdAt": "21/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 267,
+    "issue": "Fintone",
+    "version": "0.9.3",
+    "autor": "Reprovado",
+    "description": "lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id",
+    "priority": "Normal",
+    "createdAt": "02/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 268,
+    "issue": "Konklux",
+    "version": "0.7.9",
+    "autor": "Resolvido",
+    "description": "vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere",
+    "priority": "Baixa",
+    "createdAt": "19/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 269,
+    "issue": "Aerified",
+    "version": "2.0.2",
+    "autor": "Não é erro",
+    "description": "magna ac consequat metus sapien ut nunc vestibulum ante ipsum",
+    "priority": "Normal",
+    "createdAt": "10/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 270,
+    "issue": "Fintone",
+    "version": "3.3.0",
+    "autor": "Não será removido",
+    "description": "vestibulum quam sapien varius ut blandit non interdum in ante vestibulum",
+    "priority": "Baixa",
+    "createdAt": "09/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 271,
+    "issue": "Toughjoyfax",
+    "version": "3.4",
+    "autor": "Duplicado",
+    "description": "a ipsum integer a nibh in quis justo maecenas rhoncus",
+    "priority": "Normal",
+    "createdAt": "04/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 272,
+    "issue": "Sonsing",
+    "version": "0.5.9",
+    "autor": "Reprovado",
+    "description": "justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper",
+    "priority": "Normal",
+    "createdAt": "14/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 273,
+    "issue": "Transcof",
+    "version": "0.9.8",
+    "autor": "Não será removido",
+    "description": "curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 274,
+    "issue": "Biodex",
+    "version": "8.0",
+    "autor": "Não é erro",
+    "description": "in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien",
+    "priority": "Baixa",
+    "createdAt": "14/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 275,
+    "issue": "Treeflex",
+    "version": "0.6.8",
+    "autor": "Duplicado",
+    "description": "nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt",
+    "priority": "Normal",
+    "createdAt": "22/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 276,
+    "issue": "Asoka",
+    "version": "3.1",
+    "autor": "Reprovado",
+    "description": "donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla",
+    "priority": "Alta",
+    "createdAt": "26/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 277,
+    "issue": "Cookley",
+    "version": "8.1.9",
+    "autor": "Duplicado",
+    "description": "magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis",
+    "priority": "Alta",
+    "createdAt": "22/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 278,
+    "issue": "Keylex",
+    "version": "0.1.6",
+    "autor": "Não é erro",
+    "description": "habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 279,
+    "issue": "Zaam-Dox",
+    "version": "0.78",
+    "autor": "Não será removido",
+    "description": "odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui",
+    "priority": "Baixa",
+    "createdAt": "21/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 280,
+    "issue": "Sonsing",
+    "version": "0.3.9",
+    "autor": "Resolvido",
+    "description": "placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet",
+    "priority": "Normal",
+    "createdAt": "19/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 281,
+    "issue": "Cardify",
+    "version": "0.55",
+    "autor": "Reprovado",
+    "description": "ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas",
+    "priority": "Alta",
+    "createdAt": "05/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 282,
+    "issue": "Holdlamis",
+    "version": "0.28",
+    "autor": "Não é erro",
+    "description": "orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat",
+    "priority": "Alta",
+    "createdAt": "25/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 283,
+    "issue": "Konklab",
+    "version": "7.6.8",
+    "autor": "Reprovado",
+    "description": "magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu",
+    "priority": "Normal",
+    "createdAt": "05/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 284,
+    "issue": "Mat Lam Tam",
+    "version": "0.71",
+    "autor": "Duplicado",
+    "description": "lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare",
+    "priority": "Alta",
+    "createdAt": "16/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 285,
+    "issue": "Solarbreeze",
+    "version": "3.40",
+    "autor": "Não é erro",
+    "description": "nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam",
+    "priority": "Normal",
+    "createdAt": "09/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 286,
+    "issue": "Cookley",
+    "version": "5.20",
+    "autor": "Reprovado",
+    "description": "pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra",
+    "priority": "Baixa",
+    "createdAt": "17/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 287,
+    "issue": "Regrant",
+    "version": "0.24",
+    "autor": "Aprovado",
+    "description": "elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in",
+    "priority": "Alta",
+    "createdAt": "17/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 288,
+    "issue": "Quo Lux",
+    "version": "5.6.9",
+    "autor": "Aprovado",
+    "description": "pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 289,
+    "issue": "Tampflex",
+    "version": "0.98",
+    "autor": "Reprovado",
+    "description": "faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin",
+    "priority": "Normal",
+    "createdAt": "20/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 290,
+    "issue": "Redhold",
+    "version": "0.47",
+    "autor": "Resolvido",
+    "description": "eu massa donec dapibus duis at velit eu est congue",
+    "priority": "Baixa",
+    "createdAt": "07/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 291,
+    "issue": "Sonair",
+    "version": "0.92",
+    "autor": "Duplicado",
+    "description": "platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi",
+    "priority": "Normal",
+    "createdAt": "12/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 292,
+    "issue": "Fix San",
+    "version": "7.78",
+    "autor": "Não será removido",
+    "description": "turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa",
+    "priority": "Normal",
+    "createdAt": "19/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 293,
+    "issue": "Prodder",
+    "version": "2.1.3",
+    "autor": "Não será removido",
+    "description": "ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est",
+    "priority": "Baixa",
+    "createdAt": "24/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 294,
+    "issue": "Sonsing",
+    "version": "9.2.6",
+    "autor": "Duplicado",
+    "description": "integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi",
+    "priority": "Baixa",
+    "createdAt": "24/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 295,
+    "issue": "Job",
+    "version": "0.76",
+    "autor": "Aprovado",
+    "description": "neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus",
+    "priority": "Baixa",
+    "createdAt": "21/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 296,
+    "issue": "Temp",
+    "version": "0.72",
+    "autor": "Duplicado",
+    "description": "etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus",
+    "priority": "Normal",
+    "createdAt": "20/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 297,
+    "issue": "Gembucket",
+    "version": "0.2.7",
+    "autor": "Não será removido",
+    "description": "consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed",
+    "priority": "Baixa",
+    "createdAt": "24/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 298,
+    "issue": "Zoolab",
+    "version": "0.8.6",
+    "autor": "Duplicado",
+    "description": "potenti in eleifend quam a odio in hac habitasse platea",
+    "priority": "Alta",
+    "createdAt": "26/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 299,
+    "issue": "Matsoft",
+    "version": "0.4.9",
+    "autor": "Reprovado",
+    "description": "in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 300,
+    "issue": "Span",
+    "version": "3.6.7",
+    "autor": "Não será removido",
+    "description": "felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis",
+    "priority": "Baixa",
+    "createdAt": "08/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 301,
+    "issue": "Tampflex",
+    "version": "4.5",
+    "autor": "Duplicado",
+    "description": "vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 302,
+    "issue": "Alphazap",
+    "version": "0.2.4",
+    "autor": "Não é erro",
+    "description": "pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla",
+    "priority": "Alta",
+    "createdAt": "24/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 303,
+    "issue": "Otcom",
+    "version": "9.5.4",
+    "autor": "Duplicado",
+    "description": "blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
+    "priority": "Normal",
+    "createdAt": "07/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 304,
+    "issue": "Alpha",
+    "version": "0.61",
+    "autor": "Não será removido",
+    "description": "orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio",
+    "priority": "Baixa",
+    "createdAt": "20/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 305,
+    "issue": "It",
+    "version": "1.7",
+    "autor": "Aprovado",
+    "description": "in felis donec semper sapien a libero nam dui proin leo odio porttitor id",
+    "priority": "Baixa",
+    "createdAt": "10/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 306,
+    "issue": "Alphazap",
+    "version": "0.2.1",
+    "autor": "Resolvido",
+    "description": "vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque",
+    "priority": "Alta",
+    "createdAt": "15/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 307,
+    "issue": "Transcof",
+    "version": "8.8",
+    "autor": "Duplicado",
+    "description": "rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce",
+    "priority": "Normal",
+    "createdAt": "03/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 308,
+    "issue": "Konklab",
+    "version": "4.63",
+    "autor": "Duplicado",
+    "description": "leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a",
+    "priority": "Baixa",
+    "createdAt": "12/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 309,
+    "issue": "Hatity",
+    "version": "4.6.1",
+    "autor": "Aprovado",
+    "description": "ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac",
+    "priority": "Baixa",
+    "createdAt": "28/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 310,
+    "issue": "Tempsoft",
+    "version": "0.2.4",
+    "autor": "Não é erro",
+    "description": "pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris",
+    "priority": "Baixa",
+    "createdAt": "11/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 311,
+    "issue": "Greenlam",
+    "version": "0.49",
+    "autor": "Duplicado",
+    "description": "congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam",
+    "priority": "Normal",
+    "createdAt": "09/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 312,
+    "issue": "Lotstring",
+    "version": "4.7.5",
+    "autor": "Não será removido",
+    "description": "morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra",
+    "priority": "Baixa",
+    "createdAt": "27/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 313,
+    "issue": "Regrant",
+    "version": "0.72",
+    "autor": "Não é erro",
+    "description": "ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo",
+    "priority": "Alta",
+    "createdAt": "15/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 314,
+    "issue": "Rank",
+    "version": "0.5.9",
+    "autor": "Não será removido",
+    "description": "in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum",
+    "priority": "Alta",
+    "createdAt": "21/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 315,
+    "issue": "It",
+    "version": "1.5",
+    "autor": "Não é erro",
+    "description": "mattis egestas metus aenean fermentum donec ut mauris eget massa",
+    "priority": "Normal",
+    "createdAt": "04/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 316,
+    "issue": "Lotlux",
+    "version": "0.3.8",
+    "autor": "Aprovado",
+    "description": "sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est",
+    "priority": "Baixa",
+    "createdAt": "28/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 317,
+    "issue": "Y-find",
+    "version": "0.16",
+    "autor": "Aprovado",
+    "description": "libero quis orci nullam molestie nibh in lectus pellentesque at",
+    "priority": "Normal",
+    "createdAt": "12/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 318,
+    "issue": "Lotlux",
+    "version": "4.02",
+    "autor": "Não é erro",
+    "description": "metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam",
+    "priority": "Normal",
+    "createdAt": "26/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 319,
+    "issue": "Aerified",
+    "version": "2.4.1",
+    "autor": "Aprovado",
+    "description": "convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis",
+    "priority": "Baixa",
+    "createdAt": "01/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 320,
+    "issue": "Lotstring",
+    "version": "2.4.8",
+    "autor": "Duplicado",
+    "description": "mi integer ac neque duis bibendum morbi non quam nec dui luctus",
+    "priority": "Alta",
+    "createdAt": "23/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 321,
+    "issue": "Sonair",
+    "version": "7.7",
+    "autor": "Não é erro",
+    "description": "purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes",
+    "priority": "Baixa",
+    "createdAt": "11/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 322,
+    "issue": "Bitchip",
+    "version": "4.5.5",
+    "autor": "Reprovado",
+    "description": "platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat",
+    "priority": "Alta",
+    "createdAt": "25/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 323,
+    "issue": "Ronstring",
+    "version": "0.2.3",
+    "autor": "Não será removido",
+    "description": "volutpat quam pede lobortis ligula sit amet eleifend pede libero",
+    "priority": "Normal",
+    "createdAt": "13/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 324,
+    "issue": "Cardguard",
+    "version": "5.4.6",
+    "autor": "Resolvido",
+    "description": "vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan",
+    "priority": "Baixa",
+    "createdAt": "05/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 325,
+    "issue": "Duobam",
+    "version": "0.24",
+    "autor": "Reprovado",
+    "description": "vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam",
+    "priority": "Alta",
+    "createdAt": "04/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 326,
+    "issue": "Treeflex",
+    "version": "9.3.2",
+    "autor": "Reprovado",
+    "description": "ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel",
+    "priority": "Alta",
+    "createdAt": "01/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 327,
+    "issue": "Asoka",
+    "version": "0.50",
+    "autor": "Resolvido",
+    "description": "tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat",
+    "priority": "Baixa",
+    "createdAt": "27/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 328,
+    "issue": "Bamity",
+    "version": "0.96",
+    "autor": "Duplicado",
+    "description": "interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie",
+    "priority": "Baixa",
+    "createdAt": "23/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 329,
+    "issue": "Flexidy",
+    "version": "9.7.3",
+    "autor": "Aprovado",
+    "description": "elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus",
+    "priority": "Baixa",
+    "createdAt": "11/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 330,
+    "issue": "Lotstring",
+    "version": "1.2",
+    "autor": "Reprovado",
+    "description": "nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed",
+    "priority": "Normal",
+    "createdAt": "22/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 331,
+    "issue": "Latlux",
+    "version": "0.5.5",
+    "autor": "Aprovado",
+    "description": "proin eu mi nulla ac enim in tempor turpis nec euismod",
+    "priority": "Baixa",
+    "createdAt": "04/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 332,
+    "issue": "Mat Lam Tam",
+    "version": "0.1.3",
+    "autor": "Reprovado",
+    "description": "lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo",
+    "priority": "Baixa",
+    "createdAt": "26/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 333,
+    "issue": "Lotlux",
+    "version": "4.5",
+    "autor": "Resolvido",
+    "description": "mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet",
+    "priority": "Baixa",
+    "createdAt": "12/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 334,
+    "issue": "Bigtax",
+    "version": "8.6.9",
+    "autor": "Não será removido",
+    "description": "hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer",
+    "priority": "Baixa",
+    "createdAt": "07/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 335,
+    "issue": "Domainer",
+    "version": "8.4.6",
+    "autor": "Não será removido",
+    "description": "libero nam dui proin leo odio porttitor id consequat in consequat ut",
+    "priority": "Normal",
+    "createdAt": "01/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 336,
+    "issue": "Vagram",
+    "version": "7.18",
+    "autor": "Duplicado",
+    "description": "dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo",
+    "priority": "Alta",
+    "createdAt": "20/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 337,
+    "issue": "Cardify",
+    "version": "9.28",
+    "autor": "Resolvido",
+    "description": "nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque",
+    "priority": "Baixa",
+    "createdAt": "24/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 338,
+    "issue": "Voyatouch",
+    "version": "9.3.6",
+    "autor": "Resolvido",
+    "description": "dui maecenas tristique est et tempus semper est quam pharetra",
+    "priority": "Normal",
+    "createdAt": "20/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 339,
+    "issue": "Voltsillam",
+    "version": "0.92",
+    "autor": "Não é erro",
+    "description": "eu sapien cursus vestibulum proin eu mi nulla ac enim in",
+    "priority": "Alta",
+    "createdAt": "16/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 340,
+    "issue": "Ventosanzap",
+    "version": "8.1.2",
+    "autor": "Duplicado",
+    "description": "neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus",
+    "priority": "Normal",
+    "createdAt": "25/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 341,
+    "issue": "Trippledex",
+    "version": "0.93",
+    "autor": "Aprovado",
+    "description": "etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida",
+    "priority": "Alta",
+    "createdAt": "24/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 342,
+    "issue": "Trippledex",
+    "version": "5.5.9",
+    "autor": "Não é erro",
+    "description": "pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue",
+    "priority": "Baixa",
+    "createdAt": "06/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 343,
+    "issue": "Tampflex",
+    "version": "3.24",
+    "autor": "Não será removido",
+    "description": "ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede",
+    "priority": "Normal",
+    "createdAt": "07/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 344,
+    "issue": "Aerified",
+    "version": "5.6",
+    "autor": "Duplicado",
+    "description": "platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer",
+    "priority": "Baixa",
+    "createdAt": "16/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 345,
+    "issue": "Keylex",
+    "version": "0.3.1",
+    "autor": "Resolvido",
+    "description": "odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac",
+    "priority": "Alta",
+    "createdAt": "09/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 346,
+    "issue": "Namfix",
+    "version": "1.77",
+    "autor": "Resolvido",
+    "description": "porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non",
+    "priority": "Alta",
+    "createdAt": "05/05/2022",
+    "status": "Duplicado"
+  },
+  {
+    "id": 347,
+    "issue": "Lotstring",
+    "version": "0.58",
+    "autor": "Não é erro",
+    "description": "vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac",
+    "priority": "Normal",
+    "createdAt": "08/05/2022",
+    "status": "Não é erro"
+  },
+  {
+    "id": 348,
+    "issue": "Viva",
+    "version": "9.8.2",
+    "autor": "Aprovado",
+    "description": "scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis",
+    "priority": "Alta",
+    "createdAt": "03/05/2022",
+    "status": "Não será removido"
+  },
+  {
+    "id": 349,
+    "issue": "Latlux",
+    "version": "5.62",
+    "autor": "Não será removido",
+    "description": "donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit",
+    "priority": "Baixa",
+    "createdAt": "18/05/2022",
+    "status": "Reprovado"
+  },
+  {
+    "id": 350,
+    "issue": "Opela",
+    "version": "7.3.8",
+    "autor": "Não será removido",
+    "description": "nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit",
+    "priority": "Baixa",
+    "createdAt": "14/05/2022",
+    "status": "Resolvido"
+  },
+  {
+    "id": 351,
+    "issue": "Voyatouch",
+    "version": "1.7.7",
+    "autor": "Não será removido",
+    "description": "nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse",
+    "priority": "Baixa",
+    "createdAt": "09/05/2022",
+    "status": "Aprovado"
+  },
+  {
+    "id": 352,
+    "issue": "Holdlamis",
+    "version": "0.72",
+    "autor": "Não será removido",
+    "description": "viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus",
+    "priority": "Alta",
+    "createdAt": "20/05/2022",
+    "status": "Resolvido"
+  }
+]
