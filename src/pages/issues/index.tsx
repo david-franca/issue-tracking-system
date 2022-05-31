@@ -23,7 +23,8 @@ import {
   Portal,
 } from "@chakra-ui/react";
 import { matchSorter } from "match-sorter";
-import { useMemo } from "react";
+import { NextPage } from "next";
+import { ChangeEventHandler, useMemo } from "react";
 import {
   Column,
   Row,
@@ -34,6 +35,7 @@ import {
   useTable,
 } from "react-table";
 import useAxios from "../../hooks/useAxios";
+import { DefaultColumnFilter } from "./components/DefaultColumnFilter";
 
 interface IssuesResponse {
   issues: IssuesType[];
@@ -50,66 +52,6 @@ interface IssuesType {
   status: string;
 }
 
-/* function GlobalFilter({
-  preGlobalFilteredRows,
-  globalFilter,
-  setGlobalFilter,
-}) {
-  const count = preGlobalFilteredRows.length;
-  const [value, setValue] = useState(globalFilter);
-  const onChange = useAsyncDebounce((value) => {
-    setGlobalFilter(value || undefined);
-  }, 200);
-
-  return (
-    <chakra.span>
-      Search:{" "}
-      <Input
-        value={value || ""}
-        onChange={(e) => {
-          setValue(e.target.value);
-          onChange(e.target.value);
-        }}
-        placeholder={`${count} records...`}
-      />
-    </chakra.span>
-  );
-} */
-
-interface DefaultColumnFilterProps {
-  column: {
-    filterValue: any;
-    preFilteredRows: Row<{}>[];
-    setFilter: (updater: any) => void;
-  };
-}
-
-function DefaultColumnFilter({
-  column: { filterValue, preFilteredRows, setFilter },
-}: DefaultColumnFilterProps) {
-  return (
-    <Popover>
-      <PopoverTrigger>
-        <IconButton aria-label="Search database" icon={<SearchIcon />} />
-      </PopoverTrigger>
-      <Portal>
-        <PopoverContent>
-          <PopoverArrow />
-          <PopoverCloseButton />
-          <PopoverBody>
-            <Input
-              value={filterValue || ""}
-              onChange={(e) => {
-                setFilter(e.target.value || undefined); // Set undefined to remove the filter entirely
-              }}
-            />
-          </PopoverBody>
-        </PopoverContent>
-      </Portal>
-    </Popover>
-  );
-}
-
 function fuzzyTextFilterFn(rows: any[], id: any, filterValue: any) {
   return matchSorter(rows, filterValue, { keys: [(row) => row.values[id]] });
 }
@@ -117,7 +59,7 @@ function fuzzyTextFilterFn(rows: any[], id: any, filterValue: any) {
 // Let the table remove the filter if the string is empty
 fuzzyTextFilterFn.autoRemove = (val: any) => !val;
 
-const Issues = () => {
+const Issues: NextPage = () => {
   const { response } = useAxios<IssuesResponse>({
     method: "get",
     url: "issues",
