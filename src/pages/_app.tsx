@@ -1,9 +1,10 @@
-import type { AppProps } from 'next/app'
-import { ChakraProvider } from '@chakra-ui/react'
-import { makeServer } from '../services/mirage'
+import type { AppProps } from "next/app";
+import { ChakraProvider } from "@chakra-ui/react";
+
+import { makeServer } from "../services/mirage";
 
 if (process.env.NODE_ENV === "development") {
-  makeServer({ environment: "development" })
+  makeServer({ environment: "development" });
 }
 
 function MyApp({ Component, pageProps }: AppProps) {
@@ -11,7 +12,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <ChakraProvider>
       <Component {...pageProps} />
     </ChakraProvider>
-  )
+  );
 }
 
-export default MyApp
+export default MyApp;

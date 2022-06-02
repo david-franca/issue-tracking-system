@@ -1,4 +1,5 @@
 import { createServer, Model } from "miragejs";
+
 import db from "./db.json";
 
 export function makeServer({ environment = "test" } = {}) {

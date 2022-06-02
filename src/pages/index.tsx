@@ -1,11 +1,12 @@
-import { Button, Flex, Heading, Input } from "@chakra-ui/react";
 import { NextPage } from "next";
 import { useRouter } from "next/router";
 import { MouseEvent } from "react";
 
+import { Button, Flex, Heading, Input } from "@chakra-ui/react";
+
 const Home: NextPage = () => {
   const router = useRouter();
-  
+
   const handleLogin = (e: MouseEvent) => {
     e.preventDefault();
     router.push("/issues");

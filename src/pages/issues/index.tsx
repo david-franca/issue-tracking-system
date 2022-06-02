@@ -1,39 +1,32 @@
-import { SearchIcon, TriangleDownIcon, TriangleUpIcon } from "@chakra-ui/icons";
-import {
-  Flex,
-  Heading,
-  Table,
-  Tbody,
-  Td,
-  Th,
-  Thead,
-  Tr,
-  chakra,
-  Button,
-  Text,
-  Input,
-  Select,
-  Popover,
-  PopoverTrigger,
-  PopoverContent,
-  PopoverArrow,
-  PopoverCloseButton,
-  PopoverBody,
-  IconButton,
-  Portal,
-} from "@chakra-ui/react";
 import { matchSorter } from "match-sorter";
 import { NextPage } from "next";
-import { ChangeEventHandler, useMemo } from "react";
+import { useMemo } from "react";
 import {
   Column,
-  Row,
   useFilters,
   useGlobalFilter,
   usePagination,
   useSortBy,
   useTable,
 } from "react-table";
+
+import { TriangleDownIcon, TriangleUpIcon } from "@chakra-ui/icons";
+import {
+  Button,
+  chakra,
+  Flex,
+  Heading,
+  Input,
+  Select,
+  Table,
+  Tbody,
+  Td,
+  Text,
+  Th,
+  Thead,
+  Tr,
+} from "@chakra-ui/react";
+
 import useAxios from "../../hooks/useAxios";
 import { DefaultColumnFilter } from "./components/DefaultColumnFilter";
 
@@ -132,15 +125,11 @@ const Issues: NextPage = () => {
     useFilters,
     useGlobalFilter,
     useSortBy,
-    usePagination,
+    usePagination
   );
 
   return (
-    <Flex
-      height="100vh"
-      justifyContent="center"
-      background="gray.500"
-    >
+    <Flex height="100vh" justifyContent="center" background="gray.500">
       <Flex
         direction="column"
         background="gray.100"
@@ -152,9 +141,12 @@ const Issues: NextPage = () => {
         <Table {...getTableProps()}>
           <Thead>
             {headerGroups.map((headerGroup) => (
-              <Tr {...headerGroup.getHeaderGroupProps()}>
+              <Tr {...headerGroup.getHeaderGroupProps()} key={headerGroup.id}>
                 {headerGroup.headers.map((column) => (
-                  <Th {...column.getHeaderProps(column.getSortByToggleProps())}>
+                  <Th
+                    {...column.getHeaderProps(column.getSortByToggleProps())}
+                    key={column.id}
+                  >
                     <Flex alignItems="center" justifyContent="flex-start">
                       <Flex>{column.render("Header")}</Flex>
                       <Flex>
@@ -179,9 +171,11 @@ const Issues: NextPage = () => {
             {page.map((row) => {
               prepareRow(row);
               return (
-                <Tr {...row.getRowProps()}>
-                  {row.cells.map((cell) => (
-                    <Td {...cell.getCellProps()}>{cell.render("Cell")}</Td>
+                <Tr {...row.getRowProps()} key={row.id}>
+                  {row.cells.map((cell, index) => (
+                    <Td {...cell.getCellProps()} key={index}>
+                      {cell.render("Cell")}
+                    </Td>
                   ))}
                 </Tr>
               );
